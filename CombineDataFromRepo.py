@@ -8,8 +8,6 @@ Fork the https://github.com/CSSEGISandData/COVID-19 repo and clone to your local
 space. Set up this script in the same working directory. Can use the function to
 aggregate columns of interest accross dates by iterating through each file.
 
-columns include:
-    - 
 """
 
 import pandas as pd
